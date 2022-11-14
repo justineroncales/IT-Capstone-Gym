@@ -1,0 +1,9 @@
+.readmore {
+    width: 110px;
+  }
+  
+.readmore.less {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+  }

@@ -1,0 +1,23 @@
+
+.sign {
+  padding: 10px;
+  background-color: lightblue;
+  color: black;
+  border-radius: 10px;
+  margin: auto;
+}
+
+.closebtn {
+  margin-left: 15px;
+  color: black;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.closebtn:hover {
+  color: black;
+}
